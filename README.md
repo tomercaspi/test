@@ -1,12 +1,13 @@
 # test
 Some change
 
-* What's up
+# What's up
 
-** A list
+## A list
 1. first item
 2. second item
-	* 2_1
-	* 2_2
+	* you sure?
+	* **yes**
+3. third item
 
 :smile:
